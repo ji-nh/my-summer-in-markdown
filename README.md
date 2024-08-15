@@ -26,7 +26,11 @@ I love this movie because I really loved the characters and how they evolved ove
 <img src="toystory.jpg" width="200px">
 
 ## Favorite Summer Food
-During the summer, my favorite food would most definitely be chicken!
+During the summer, my favorite food would most definitely be chicken tenders with fries!
 
+<img src="chickentenders.jpg" width="400px">
 
+## Learning Experiences
+During July of this year, I took an online course for Spanish 3. Although it was an excruciating class, I was able to finish it off strong and pass the course with an A. 
 
+<img src="Screenshot 2024-08-14 5.14.24 PM.png" width="400px">
